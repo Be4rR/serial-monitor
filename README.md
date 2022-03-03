@@ -2,7 +2,7 @@
 
 ## setup
 
-[Poetry](https://python-poetry.org/docs/)が必要です．
+[Git](https://git-scm.com/)と[Poetry](https://python-poetry.org/docs/)が必要です．
 
 Python 3.8 推奨です．
 
