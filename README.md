@@ -12,7 +12,7 @@ cd serial-monitor
 poetry install
 ```
 
-config.jsonに必要な設定を書き込みます．最低限`port`と`baudrate`が必要です．
+config.jsonの内容を変更します．特に`port`と`baudrate`は環境に合わせて設定する必要があります．
 ```
 {"port": "COM7", "baudrate": 115200, "plot_width": 300, "save_dir": "./data"}
 ```
