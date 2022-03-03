@@ -21,3 +21,5 @@ config.jsonの内容を変更します．特に`port`と`baudrate`は環境に�
 ```
 poetry run python script.py
 ```
+
+![image](https://user-images.githubusercontent.com/44293565/156522146-c4999f10-c134-4d93-8882-59895ac1a4c4.png)
