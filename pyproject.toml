@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "serial-monitor"
+version = "0.1.0"
+description = ""
+authors = ["be4rr <44293565+Be4rR@users.noreply.github.com>"]
+
+[tool.poetry.dependencies]
+python = "3.8.*"
+pyserial = "^3.5"
+PySimpleGUI = "^4.57.0"
+matplotlib = "^3.5.1"
+pyinstaller = "^4.9"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
